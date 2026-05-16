@@ -7,4 +7,5 @@ echo "<h1>Sistema PHP Simples</h1>";
 echo "<p>Olá, eu sou o <strong>$aluno</strong>.</p>";
 echo "<p>Este projeto foi criado para a aula do Professor Eder Pansani.</p>";
 echo "<p>Data: " . date('d/m/Y') . "</p>";
+echo "<p>Versão 2 - Atualização Automática</p>";
 ?>
